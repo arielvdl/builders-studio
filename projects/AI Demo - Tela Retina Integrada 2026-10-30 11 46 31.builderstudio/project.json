@@ -1,0 +1,305 @@
+{
+  "formatVersion": 1,
+  "id": "p121K92uojU",
+  "name": "AI Demo - Tela Retina Integrada 2026-10-30 11 46 31",
+  "createdAt": "2026-10-30T11:46:31.784Z",
+  "updatedAt": "2026-10-30T11:46:31.788Z",
+  "lastSavedAt": "2026-10-30T11:46:31.788Z",
+  "dir": "/Users/arielsilva/Builder Studio Projects/AI Demo - Tela Retina Integrada 2026-10-30 11 46 31.builderstudio",
+  "recording": {
+    "screenFileName": "screen.mp4",
+    "cameraFileName": null,
+    "micFileName": null,
+    "screenAudioFileName": null,
+    "micAudioFileName": null,
+    "width": 3600,
+    "height": 2338,
+    "fps": 30,
+    "durationMs": 17357.071333331987,
+    "displayScale": 2,
+    "displayId": 1,
+    "sourceBounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1800,
+      "height": 1169
+    },
+    "captureType": "display",
+    "hasSystemAudio": false,
+    "hasMicrophone": false,
+    "hasCamera": false,
+    "cameraOffsetMs": 0,
+    "micOffsetMs": 0,
+    "createdAt": "2026-10-30T11:46:31.784Z",
+    "screenPeaks": [],
+    "micPeaks": []
+  },
+  "config": {
+    "backgroundGradient": {
+      "start": {
+        "x": 0,
+        "y": 0
+      },
+      "end": {
+        "x": 1,
+        "y": 1
+      },
+      "stops": [
+        {
+          "color": "#3F37C9",
+          "at": 0
+        },
+        {
+          "color": "#8C87DF",
+          "at": 1
+        }
+      ]
+    },
+    "backgroundPaddingRatio": 0,
+    "insetPadding": {
+      "bottom": 0,
+      "left": 0,
+      "right": 0,
+      "top": 0
+    },
+    "insetColor": "#000000",
+    "insetAlpha": 0.5,
+    "motionBlurAmount": 1,
+    "motionBlurCursorAmount": 1,
+    "motionBlurScreenMoveAmount": 1,
+    "motionBlurScreenZoomAmount": 1,
+    "cursorSize": 1.5,
+    "cursorSet": {
+      "id": "macos",
+      "variants": {}
+    },
+    "cursorRotateOnXMovementRatio": 0.5,
+    "cursorBaseRotation": 0,
+    "useDefaultCursorIfAppCursorHasLowResolution": true,
+    "alwaysUseDefaultCursor": false,
+    "hideNotMovingCursorAfterMs": null,
+    "loopCursorPositionBeforeEndMs": null,
+    "removeCursorShakeThreshold": 500,
+    "optimizeOriginalCursorTypes": true,
+    "clickEffect": "circle",
+    "clickSoundEffect": "none",
+    "backgroundColor": "#3F37C9",
+    "backgroundImage": null,
+    "backgroundVideo": null,
+    "backgroundType": "gradient",
+    "backgroundSystemName": "macOS/Sonoma.heic",
+    "backgroundBlur": 0,
+    "hideCursor": false,
+    "mouseMovementSpring": {
+      "stiffness": 125,
+      "damping": 12,
+      "mass": 1.5,
+      "clamp": true,
+      "precision": 0.002
+    },
+    "screenMovementSpring": {
+      "stiffness": 125,
+      "damping": 12,
+      "mass": 1.5,
+      "clamp": true,
+      "precision": 0.002
+    },
+    "mouseClickSpring": {
+      "stiffness": 700,
+      "damping": 30,
+      "mass": 1
+    },
+    "screenAnimationStyle": "focused",
+    "cursorAnimationStyle": "medium",
+    "zoomAnimationSpeed": 1,
+    "cursorAnimationSpeed": 1,
+    "defaultOutputAspectRatio": null,
+    "windowBorderRadius": 0,
+    "alwaysKeepZoomedIn": false,
+    "shadowIntensity": 0,
+    "shadowAngle": 90,
+    "shadowDistance": 25,
+    "shadowBlur": 20,
+    "shadowIsDirectional": false,
+    "disableMouseMovementSpring": false,
+    "hideCamera": true,
+    "mirrorCamera": false,
+    "cameraBorderColor": "#ffffff",
+    "cameraBorderWidth": 0,
+    "cameraRoundness": 0.08,
+    "cameraSize": 0.35,
+    "cameraPosition": "bottom-right",
+    "cameraPositionPoint": {
+      "x": 1,
+      "y": 1
+    },
+    "cameraScaleDuringZoom": 0.7,
+    "cameraMotionEnabled": true,
+    "cameraMotionMs": 550,
+    "cameraTrackMuted": false,
+    "cameraAspectRatio": "1:1",
+    "stopCursorMovementInLastPartMs": 0,
+    "showShortcuts": false,
+    "hiddenShortcuts": {},
+    "showShortcutsWithSingleLetters": false,
+    "showTranscript": false,
+    "transcriptSizeRatio": 1,
+    "shortcutsSizeRatio": 1,
+    "audioVolume": 1,
+    "muteMicrophone": false,
+    "muteSystemAudio": false,
+    "muteExternalDeviceAudio": false,
+    "muteOverlayAudio": false,
+    "microphoneVolume": 1,
+    "overlayAudioVolume": 1,
+    "hideSystemAudioTrack": false,
+    "hideMicAudioTrack": false,
+    "hideMediaAudioTrack": false,
+    "improveMicrophoneAudio": false,
+    "backgroundAudioFileName": null,
+    "muteBackgroundAudio": false,
+    "backgroundAudioVolume": 0.05,
+    "clickSoundEffectVolume": 0.25,
+    "microphoneInStereoMode": false,
+    "deviceFrameKey": null,
+    "defaultLayout": {
+      "type": "screen",
+      "cameraSize": 0.35,
+      "cameraPositionPoint": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "enableDeviceMockup": true,
+    "adjustDeviceFrameToRecordingSize": true
+  },
+  "scenes": [
+    {
+      "id": "scAlgUREKjG3",
+      "name": "Scene 1",
+      "type": "recording",
+      "sessionIndex": 0,
+      "zoomRanges": [
+        {
+          "id": "zLmbmbbFrTz",
+          "zoom": 1.45,
+          "type": "follow-click-groups",
+          "snapToEdgesRatio": 0.25,
+          "manualTargetPoint": {
+            "x": 0.06638888888888889,
+            "y": 0.501710863986313
+          },
+          "glideDirection": null,
+          "glideSpeed": 0.5,
+          "isDisabled": false,
+          "startTime": 1579,
+          "endTime": 3429,
+          "isSystem": false,
+          "hasInstantAnimation": false
+        },
+        {
+          "id": "zoWuseBg5xv",
+          "zoom": 1.45,
+          "type": "follow-click-groups",
+          "snapToEdgesRatio": 0.25,
+          "manualTargetPoint": {
+            "x": 0.5319444444444444,
+            "y": 0.5915312232677502
+          },
+          "glideDirection": null,
+          "glideSpeed": 0.5,
+          "isDisabled": false,
+          "startTime": 4412,
+          "endTime": 6262,
+          "isSystem": false,
+          "hasInstantAnimation": false
+        },
+        {
+          "id": "zlv9quyGovB",
+          "zoom": 1.45,
+          "type": "follow-click-groups",
+          "snapToEdgesRatio": 0.25,
+          "manualTargetPoint": {
+            "x": 0.5572786458333333,
+            "y": 0.07363732356715141
+          },
+          "glideDirection": null,
+          "glideSpeed": 0.5,
+          "isDisabled": false,
+          "startTime": 10569,
+          "endTime": 11601,
+          "isSystem": false,
+          "hasInstantAnimation": false
+        }
+      ],
+      "slices": [
+        {
+          "id": "seiCINIqsoA",
+          "timeScale": 1,
+          "sourceStartMs": 0,
+          "sourceEndMs": 1262,
+          "volume": 1,
+          "systemAudioVolume": 1,
+          "hideCursor": false,
+          "disableSmoothMouseMovement": false,
+          "externalDeviceAudioVolume": 1
+        },
+        {
+          "id": "saU6i6xDF1F",
+          "timeScale": 1,
+          "sourceStartMs": 2993,
+          "sourceEndMs": 4881,
+          "volume": 1,
+          "systemAudioVolume": 1,
+          "hideCursor": false,
+          "disableSmoothMouseMovement": false,
+          "externalDeviceAudioVolume": 1
+        },
+        {
+          "id": "sPQFC0CG6az",
+          "timeScale": 1,
+          "sourceStartMs": 6319,
+          "sourceEndMs": 7182,
+          "volume": 1,
+          "systemAudioVolume": 1,
+          "hideCursor": false,
+          "disableSmoothMouseMovement": false,
+          "externalDeviceAudioVolume": 1
+        },
+        {
+          "id": "s9dHiLdAIVg",
+          "timeScale": 1,
+          "sourceStartMs": 9769,
+          "sourceEndMs": 17357,
+          "volume": 1,
+          "systemAudioVolume": 1,
+          "hideCursor": false,
+          "disableSmoothMouseMovement": false,
+          "externalDeviceAudioVolume": 1
+        }
+      ],
+      "layouts": [],
+      "masks": [],
+      "captions": [],
+      "voiceOvers": [],
+      "cameraClips": [
+        {
+          "id": "cami91sRTncTM",
+          "startTime": 0,
+          "endTime": 17357.071333331987,
+          "fadeInMs": 0,
+          "fadeOutMs": 0
+        }
+      ],
+      "resolvedTypingSpeedIncreaseSuggestions": []
+    }
+  ],
+  "activeSceneId": "scAlgUREKjG3",
+  "overlayTracks": [
+    {
+      "id": "media-main",
+      "name": "Media 1"
+    }
+  ],
+  "overlays": []
+}

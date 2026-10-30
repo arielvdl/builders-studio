@@ -1,0 +1,9 @@
+.DS_Store
+*.builderstudio/recording/*.tmp
+*.builderstudio/recording/*.part
+node_modules/
+*.pem
+*.p12
+*.key
+.env
+.env.*
