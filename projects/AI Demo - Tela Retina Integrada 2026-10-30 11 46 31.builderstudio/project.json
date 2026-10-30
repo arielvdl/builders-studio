@@ -67,7 +67,7 @@
     "motionBlurAmount": 1,
     "motionBlurCursorAmount": 1,
     "motionBlurScreenMoveAmount": 1,
-    "motionBlurScreenZoomAmount": 1,
+    "motionBlurScreenZoomAmount": 0,
     "cursorSize": 1.5,
     "cursorSet": {
       "id": "macos",
@@ -99,7 +99,7 @@
     },
     "screenMovementSpring": {
       "stiffness": 125,
-      "damping": 12,
+      "damping": 27.4,
       "mass": 1.5,
       "clamp": true,
       "precision": 0.002
